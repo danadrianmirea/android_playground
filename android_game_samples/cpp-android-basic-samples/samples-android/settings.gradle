@@ -1,0 +1,7 @@
+include ':Common:gpg-sdk',
+        ':Common:JuiHelper',
+        ':Common:NDKHelper',
+        ':CollectAllTheStarsNative',
+        ':Minimalist',
+        ':Teapot'
+
